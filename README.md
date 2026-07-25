@@ -19,3 +19,15 @@ This repository contains my accepted LeetCode solutions written in Python.
 - Python
 
 ⭐ New solutions are added regularly.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
