@@ -28,6 +28,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 | [0001-two-sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -72,11 +73,13 @@ This repository contains my accepted LeetCode solutions written in Python.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
