@@ -26,6 +26,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -37,6 +38,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -60,6 +62,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
