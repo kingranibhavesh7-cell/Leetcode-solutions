@@ -47,6 +47,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 | ------- |
 | [0015-3sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -88,4 +90,8 @@ This repository contains my accepted LeetCode solutions written in Python.
 | [0048-rotate-image](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
