@@ -26,6 +26,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0048-rotate-image) |
@@ -93,5 +94,10 @@ This repository contains my accepted LeetCode solutions written in Python.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
