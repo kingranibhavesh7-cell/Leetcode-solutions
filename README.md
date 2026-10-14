@@ -49,6 +49,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
@@ -96,6 +97,7 @@ This repository contains my accepted LeetCode solutions written in Python.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kingranibhavesh7-cell/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Trie
